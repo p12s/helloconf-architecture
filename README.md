@@ -1,1 +1,7 @@
-# helloconf-architecture
+# Разработка архитектуры сайта для проведения конференций helloconf.mts.ru
+
+## Задача
+[Здесь](task.md)
+
+
+
